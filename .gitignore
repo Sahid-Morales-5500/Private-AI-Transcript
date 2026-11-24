@@ -1,0 +1,5 @@
+.env
+data/
+*.m4a
+__pycache__/
+.vscode/
