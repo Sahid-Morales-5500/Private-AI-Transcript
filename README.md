@@ -91,10 +91,10 @@ pipenv shell
 
 Create a file named `.env` in the main folder and add your keys:
 ```
-GEMINI_API_KEY=your_gemini_key
-PINECONE_API_KEY=your_pinecone_key
-NOTION_TOKEN=your_notion_integration_token
-NOTION_DATABASE_ID=your_notion_database_id
+GEMINI_API_KEY = your_gemini_key
+PINECONE_API_KEY = your_pinecone_key
+NOTION_TOKEN = your_notion_integration_token
+NOTION_DATABASE_ID = your_notion_database_id
 ```
 
 **5. Run the program:**
